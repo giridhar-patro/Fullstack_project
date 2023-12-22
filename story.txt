@@ -1,1 +1,1 @@
-This is basic version of Git.
+This is basic version of Git. It can be used for educational purpose.
